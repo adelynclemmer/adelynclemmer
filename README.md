@@ -1,4 +1,17 @@
-## Hi there 👋
+# Hi, I'm Adelyn! 
+
+I'm a student at the University of Notre Dame studying Finance and Global Affairs.
+
+## About Me
+- 🎓 Currently taking Introduction to Data Science
+- 🌱 Learning Python, pandas, and data visualization
+- 📫 How to reach me: aclemmer@nd.edu
+
+## Interests
+- Global development and emerging markets
+- Investing and financial literacy
+- Hanging out with friends, baking, cute hotels
+
 
 <!--
 **adelynclemmer/adelynclemmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
