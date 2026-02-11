@@ -1,6 +1,6 @@
 # Hi, I'm Adelyn! 
 
-I'm a student at the University of Notre Dame studying Finance and Global Affairs with a Data Science minor. I am particularly interested in global development and entrepreneurship, so I hope to develop future projects displaying trends and patterns in small buisness investment abroad. 
+I'm a student at the University of Notre Dame studying Finance and Global Affairs with a Data Science minor. I am particularly interested in global development and entrepreneurship, so I hope to develop future projects displaying trends and patterns in small buisness investment abroad! 
 
 ## About Me
 - 🎓 Currently pursuing a Data Science minor
@@ -13,6 +13,9 @@ I'm a student at the University of Notre Dame studying Finance and Global Affair
 - Global development and emerging markets
 - Investing and financial literacy
 - Hanging out with friends, baking, cute hotels
+
+## Current Projects
+- 🛍 Customer Purchasing Behavior
 
 
 <!--
