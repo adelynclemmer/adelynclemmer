@@ -10,9 +10,9 @@ I'm a student at the University of Notre Dame studying Finance and Global Affair
 
 
 ## Interests
-- Global development and emerging markets
-- Investing and financial literacy
-- Hanging out with friends, baking, cute hotels
+- 🌎 Global development and emerging markets
+- 📊 Investing and financial literacy
+- 🤜🤛 Hanging out with friends, baking, cute hotels
 
 ## Current Projects & Goals
 - 🛍 Customer Purchasing Behavior
