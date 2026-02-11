@@ -17,7 +17,7 @@ I'm a student at the University of Notre Dame studying Finance and Global Affair
 ## Current Projects & Goals
 - 🛍 Customer Purchasing Behavior
 
-My goal is to develop a data visualization project that provides a clear and insightful outcome/recommendation. I want to push myself and take on challenges as I learn. This may mean taking risks by picking interesting datasets, experimenting with new graphing tools, and learning new visualization platforms. 
+My goal is to develop a final data visualization project that actually provides a clear and insightful recommendation, not just random visualizations. I also want to push myself and take on challenges as I learn. This may mean taking risks by picking interesting datasets, experimenting with new graphing tools, and learning new visualization platforms. 
 
 
 <!--
