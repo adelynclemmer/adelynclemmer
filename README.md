@@ -4,10 +4,9 @@ I'm a student at the University of Notre Dame studying Finance and Global Affair
 
 ## About Me
 - 🎓 Currently pursuing a Data Science minor
-- 🌱 Skills: Python | Learning: pandas, and data visualization
+- 🌱 Skills: Python | Learning: pandas, and data visualization, unsupervised and supervised machine learning
 - 📫 How to reach me: aclemmer@nd.edu | www.linkedin.com/in/adelyn-clemmer
-- 🤔 I’m looking for help with project development/ idea generation
-
+- 🤔 I’m looking for new projects to help refine my data handling skills
 
 ## Interests
 - 🌎 Global development and emerging markets
@@ -17,8 +16,10 @@ I'm a student at the University of Notre Dame studying Finance and Global Affair
 ## Current Projects & Goals
 - 🛍 Customer Purchasing Behavior
 - 📊 Clean Data Project
+- 🤖 Supervised Machine Learning on Streamlit 
+- ⚡️ Unsupervised Machine Learning Modeling on Streamlit 
 
-My goal is to develop a final data visualization project that actually provides a clear and insightful recommendation, not just random visualizations. I also want to push myself and take on challenges as I learn. This may mean taking risks by picking interesting datasets, experimenting with new graphing tools, and learning new visualization platforms. 
+My goal is to intertwine what I have learned as a DS minor with applications in different areas of interest. I want to use data visualization and modeling to unlock insights in finance and global affairs so that projects can provide clear recommendations, not just random visualizations. I also want to push myself and take on challenges as I learn. This may mean taking risks by picking interesting datasets, experimenting with new graphing tools, and learning new visualization platforms. 
 
 
 <!--
