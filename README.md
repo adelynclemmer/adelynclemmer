@@ -16,8 +16,7 @@ I'm a student at the University of Notre Dame studying Finance and Global Affair
 ## Current Projects & Goals
 Check out my Data Science Portfolio to see what I am working on! 
 Link: https://github.com/adelynclemmer/Clemmer-Data-Science-Portfolio 
-
-##Projects include:##
+Projects include:
 - 🛍 Customer Purchasing Behavior
 - 📊 Clean Data Project
 - 🤖 Supervised Machine Learning on Streamlit 
