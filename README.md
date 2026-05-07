@@ -23,7 +23,7 @@ Projects include:
 - 🤖 Supervised Machine Learning on Streamlit 
 - ⚡️ Unsupervised Machine Learning Modeling on Streamlit 
 
-My goal is to intertwine what I have learned as a DS minor with applications in different areas of interest. I want to use data visualization and modeling to unlock insights in finance and global affairs so that projects can provide clear recommendations, not just random visualizations. I also want to push myself and take on challenges as I learn. This may mean taking risks by picking interesting datasets, experimenting with new graphing tools, and learning new visualization platforms. 
+My goal is to intertwine what I have learned as a DS minor with applications in different areas of interest. I want to use data visualization and modeling to unlock insights in finance and global affairs so that projects can provide clear recommendations, not just random visualizations. I also want to push myself and take on challenges as I learn! This may mean taking risks by picking interesting datasets, experimenting with new graphing tools, and learning new visualization platforms. 
 
 
 <!--
