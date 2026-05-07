@@ -4,7 +4,7 @@ I'm a student at the University of Notre Dame studying Finance and Global Affair
 
 ## About Me
 - 🎓 Currently pursuing a Data Science minor
-- 🌱 Skills: Python | Learning: pandas, and data visualization, unsupervised and supervised machine learning
+- 🌱 Skills: Python | Pandas | Data visualization | Unsupervised & Supervised Machine Learning
 - 📫 How to reach me: aclemmer@nd.edu | www.linkedin.com/in/adelyn-clemmer
 - 🤔 I’m looking for new projects to help refine my data handling skills
 
